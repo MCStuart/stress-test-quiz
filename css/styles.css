@@ -1,0 +1,12 @@
+#stress-responses {
+  display: none;
+}
+
+#mitigation-responses {
+  display: none;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
